@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_horizontal">16dp</dimen>
+    <dimen name="margen_vertical">5dp</dimen>
+    <dimen name="padding_editText">10dp</dimen>
+    <dimen name="borde_boton">5dp</dimen>
+</resources>
